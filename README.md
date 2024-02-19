@@ -1,5 +1,5 @@
 # Sudoku Solver
 
-# Naive Solver
+## Naive Solver
 Run command:
-  python naive_solver.py <difficulty level>
+  `python3 naive_solver.py <difficulty level>`
